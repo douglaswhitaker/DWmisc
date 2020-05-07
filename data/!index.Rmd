@@ -1,0 +1,18 @@
+---
+title: "Dataset index"
+author: "Douglas Whitaker"
+date: "07/05/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Datasets
+
+### Jordanian math exam
+Jordan dataset.xlsx
+
+[Source: https://osf.io/gu5y7/](https://osf.io/gu5y7/)
+
